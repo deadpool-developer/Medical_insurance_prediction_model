@@ -23,4 +23,4 @@
     2. After training the linear regression model we will check the performance of our model. We will have the trained linear regression model.
 
 ### NEW DATA
-    1. Once the model is trained we will use the new daa to predict the insurance cost.
+    1. Once the model is trained we will use the new data to predict the insurance cost.
