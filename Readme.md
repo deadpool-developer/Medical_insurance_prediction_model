@@ -25,5 +25,5 @@
 ### NEW DATA
     1. Once the model is trained we will use the new data to predict the insurance cost.
 
-### MODEL OUTPUT
+### MODEL OUTPUT --> Accuracy 89.2%
 ![OUTPUT](https://github.com/deadpool-developer/Medical_insurance_prediction_model/blob/master/Screenshot%20(60).png)
